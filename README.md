@@ -2,9 +2,9 @@
 
 **Team FalconByte · School of Cyber Defense Competition**
 
-Live demonstration: https://hadiarahmani.github.io/GovVoiceShield_Pitch/
+Live demonstration: https://hadiarahmani.github.io/GovVoiceShield_GISEC
 
-Source repository: https://github.com/HadiaRahmani/GovVoiceShield_Pitch
+Source repository: https://github.com/HadiaRahmani/GovVoiceShield_GISEC
 
 ## Publish with GitHub Pages
 
